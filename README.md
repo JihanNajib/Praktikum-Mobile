@@ -1,6 +1,6 @@
 # 🌱 Praktikum Mobile Programming
 
-## Hi 👋, I'm [Nama Kamu]
+## Hi 👋, I'm Jihan Najib
 
 🎓 Informatics Student | 💻 Tech Enthusiast | 📍 Indonesia  
 
@@ -9,7 +9,6 @@
 ### 💻 Programming Languages
 - Java ☕
 - PHP 🌐
-- Python 🐍
 - HTML, CSS, JavaScript 🎨
 - Database (MySQL, SQL) 🗄️
 
