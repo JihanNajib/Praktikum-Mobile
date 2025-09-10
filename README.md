@@ -24,6 +24,6 @@
 ### 📅 Praktikum
 | No | Tanggal    | Praktikum ke | Topik                                      | Hasil        | Laporan   |
 |----|------------|--------------|---------------------------------------------|--------------|-----------|
-| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup     | [Modul 01](#) | [Laporan](#) |
+| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup     | [Modul 01](#) | [[Laporan](https://docs.google.com/document/d/12hllSFbec_uObnRHkF0KD-dCPoscw9-DdK-eP3QnCJc/edit?tab=t.0)](#) |
 
 ---
