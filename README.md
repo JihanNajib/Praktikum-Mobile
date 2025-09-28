@@ -28,9 +28,9 @@
 | 2  | 03-09-2025 | 01           | Widget Row dan Column                       | [Laporan 2](https://docs.google.com/document/d/1IaTIxmV4uVBfhpTfh8U8BxB2hINCHcw7CvlsNhH1iKA/edit?tab=t.0) | Modul 2 |
 | 3  | 10-09-2025 | 02           | Pengaturan Layout Row dan Column di Flutter                     | [Laporan 3](https://docs.google.com/document/d/1zWfmQ-hIrkhy2NmGyS7vsc__IbvGzaDR7Zf7xuZXni8/edit?tab=t.0) | Modul 3 |
 | 4  | 10-09-2025 | 02           | Widget Flexible dan Expanded                   | [Laporan 4](https://docs.google.com/document/d/1own_fcGwAl7JNtMZSIZzRcR9ihiZEYwaHRnZAi5O_vo/edit?tab=t.0) | Modul 4 |
-| 5  | 10-09-2025 | 03           | Widget SizedBox, Spacer, dan Card                     | [Laporan 5]() | Modul 5 |
+| 5  | 17-09-2025 | 03           | Widget SizedBox, Spacer, dan Card                     | [Laporan 5]() | Modul 5 |
 | 6  | 17-09-2025 | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder                     | [Laporan 6]() | Modul 6 |
-| 7  | 17-09-2025 | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route                  | [Laporan 7]() | Modul 7 |
-| 8  | 10-09-2025 | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8]() | Modul 8 |
+| 7  | -09-2025 | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route                  | [Laporan 7]() | Modul 7 |
+| 8  | -09-2025 | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8]() | Modul 8 |
 
 ---
