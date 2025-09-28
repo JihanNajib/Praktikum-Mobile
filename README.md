@@ -26,5 +26,6 @@
 |----|------------|--------------|---------------------------------------------|--------------|-----------|
 | 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup     | [Laporan 1](https://docs.google.com/document/d/12hllSFbec_uObnRHkF0KD-dCPoscw9-DdK-eP3QnCJc/edit?tab=t.0) | Modul 1 |
 | 2  | 03-09-2025 | 02           | Widget Row dan Column                       | [Laporan 2](https://docs.google.com/document/d/1IaTIxmV4uVBfhpTfh8U8BxB2hINCHcw7CvlsNhH1iKA/edit?tab=t.0) | Modul 2 |
+| 3  | 10-09-2025 | 03           | Pengaturan Layout Row dan Column di Flutter                     | [Laporan 3](https://docs.google.com/document/d/1zWfmQ-hIrkhy2NmGyS7vsc__IbvGzaDR7Zf7xuZXni8/edit?tab=t.0) | Modul 3 |
 
 ---
