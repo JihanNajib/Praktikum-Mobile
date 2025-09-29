@@ -30,7 +30,7 @@
 | 4  | 10-09-2025 | 02           | Widget Flexible dan Expanded                   | [Laporan 4](https://docs.google.com/document/d/1own_fcGwAl7JNtMZSIZzRcR9ihiZEYwaHRnZAi5O_vo/edit?tab=t.0) | Modul 4 |
 | 5  | 17-09-2025 | 03           | Widget SizedBox, Spacer, dan Card                     | [Laporan 5]() | Modul 5 |
 | 6  | 17-09-2025 | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder                     | [Laporan 6]() | Modul 6 |
-| 7  | -09-2025 | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route                  | [Laporan 7]() | Modul 7 |
+| 7  | -09-2025 | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route                  | [Laporan 7](https://docs.google.com/document/d/1vW4ivHpfy7qUZHU8kb6doNzwRCU3JS9SiXSx1oOgO0w/edit?tab=t.0) | Modul 7 |
 | 8  | -09-2025 | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8]() | Modul 8 |
 
 ---
